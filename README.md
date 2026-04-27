@@ -1,9 +1,6 @@
 # 💫 About Me:
-🚀 Quenev<br><br>Занимаюсь исследованием и настройкой VPN-инфраструктуры и сетевых решений на базе Xray.<br><br>Работаю с панелями управления и серверными решениями:<br><br>• Remnawave<br>• 3X-UI<br>• Marzban<br><br>💻 Направления<br><br>• Xray и сетевые протоколы<br>• Настройка и администрирование VPN-серверов<br>• Bash / Shell автоматизация<br>• Linux server management<br>• Оптимизация сетей и маршрутизации<br><br>⚙️ Фокус<br><br>• Развёртывание и поддержка VPN-инфраструктуры<br>• Настройка и оптимизация Xray-конфигураций<br>• Тестирование стабильности и производительности<br>• Автоматизация процессов через скрипты<br><br>📡 Цель<br><br>Создание стабильных, быстрых и масштабируемых сетевых решений на базе Xray и серверных технологий.
+🚀 Quenev<br><br>Инженер, работающий с VPN-инфраструктурой и сетевыми решениями на базе **Xray**. Создаю и настраиваю стабильные серверные системы для прокси и VPN.<br><br>⚙️ Панели управления:<br>Remnawave • 3X-UI • Marzban<br><br>💻 Технологии:<br>Linux server • Bash / Shell • автоматизация процессов • работа с конфигами Xray<br><br>📡 Чем занимаюсь:<br>• развертывание VPN-серверов<br>• настройка Xray и прокси-схем<br>• маршрутизация трафика<br>• оптимизация скорости и стабильности<br>• тестирование нагрузки и производительности<br>• автоматизация через скрипты<br><br>🔥 Цель:<br>строить быстрые, стабильные и масштабируемые VPN-сети с минимальными сбоями и максимальной эффективностью<br>
 
-
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Quenev&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Quenev&theme=highcontrast&hide_border=true)<br/>

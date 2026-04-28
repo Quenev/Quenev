@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" alt="Descriptive Text for the GIF" />
+    <img src="https://i.pinimg.com/originals/72/f7/9e/72f79eca9182f79b4c36875ea4d2af93.gif" alt="Descriptive Text for the GIF" />
   </p>
 </div>
 

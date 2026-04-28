@@ -5,14 +5,14 @@
 </div>
 
 # 💫 About Me:
-🚀 **Quenev**<br><br>Сетевой инженер, специализирующийся на VPN-инфраструктуре и решениях на базе **Xray**. Занимаюсь настройкой, оптимизацией и поддержкой серверных систем с упором на стабильность и производительность.<br><br>💻 **Стек:**<br>Linux • Bash / Shell • автоматизация • Xray • HTML<br><br>📡 **Что делаю:**<br>• Развёртываю и администрирую VPN-серверы<br>• Настраиваю и оптимизирую Xray-конфигурации<br>• Работаю с маршрутизацией и сетевым трафиком<br>• Улучшаю стабильность и скорость работы систем<br>• Автоматизирую процессы через скрипты<br><br>🔥 **Фокус:**<br>Надёжные и быстрые VPN-решения с понятной и эффективной архитектурой<br>
+Я занимаюсь разработкой и сопровождением VPN и proxy-инфраструктуры на базе Linux, а также серверных и сетевых решений. Работаю с open-source проектами (включая Zapret и аналоги), администрирую Linux-серверы, настраиваю сетевые сервисы и автоматизирую процессы, делая упор на надёжность, стабильность и оптимизацию систем. Сейчас начинаю изучать backend-разработку и frontend-технологии, развиваюсь в направлении системного программирования.<br><br>💻 **Навыки:**<br><br>• Linux server administration<br>• VPN / Proxy infrastructure (Xray и аналогичные решения)<br>• Bash / Shell scripting<br>• Базовое программирование и автоматизация<br>• Работа с open-source проектами<br><br>🚀 **Цель:** развитие в роли backend / infrastructure engineer с фокусом на создание масштабируемых, надёжных и высокопроизводительных систем.
 
 
 # 💻 Tech Stack:
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Quenev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Quenev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quenev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Quenev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Quenev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quenev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

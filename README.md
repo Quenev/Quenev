@@ -1,73 +1,15 @@
-{
-  "id": "project-1777373490406",
-  "name": "My README",
-  "createdAt": 1777373490406,
-  "updatedAt": 1777373490406,
-  "blocks": [
-    {
-      "id": "template-personal-1",
-      "type": "template",
-      "label": "Personal Template",
-      "templateId": "personal"
-    },
-    {
-      "id": "template-personal-2",
-      "type": "content",
-      "label": "Profile Header",
-      "content": "# Привет! 👋 Я Quenev"
-    },
-    {
-      "id": "template-personal-3",
-      "type": "widget",
-      "label": "Wave Animation",
-      "widgetId": "wave-animation"
-    },
-    {
-      "id": "template-personal-4",
-      "type": "content",
-      "label": "About Me",
-      "content": "**🚀 Quenev\n\nСетевой инженер, специализирующийся на VPN-инфраструктуре и решениях на базе Xray. Занимаюсь настройкой, оптимизацией и поддержкой серверных систем с упором на стабильность и производительность.\n\n💻 Стек:\nLinux • Bash / Shell • автоматизация • Xray • HTML\n\n📡 Что делаю:\n• Развёртываю и администрирую VPN-серверы\n• Настраиваю и оптимизирую Xray-конфигурации\n• Работаю с маршрутизацией и сетевым трафиком\n• Улучшаю стабильность и скорость работы систем\n• Автоматизирую процессы через скрипты\n\n🔥 Фокус:\nНадёжные и быстрые VPN-решения с понятной и эффективной архитектурой**"
-    },
-    {
-      "id": "template-personal-5",
-      "type": "widget",
-      "label": "GitHub Stats",
-      "widgetId": "github-stats"
-    },
-    {
-      "id": "template-personal-6",
-      "type": "widget",
-      "label": "Top Languages",
-      "widgetId": "top-languages"
-    },
-    {
-      "id": "template-personal-7",
-      "type": "widget",
-      "label": "Language Chart",
-      "widgetId": "language-chart"
-    },
-    {
-      "id": "template-personal-9",
-      "type": "widget",
-      "label": "Contribution Graph",
-      "widgetId": "contribution-graph",
-      "blockLayout": "default"
-    },
-    {
-      "id": "template-personal-10",
-      "type": "content",
-      "label": "Let's Connect",
-      "content": "## 🤝 Let's Connect\n\nI'm always interested in connecting with fellow developers and collaborating on exciting projects!"
-    },
-    {
-      "id": "template-personal-11",
-      "type": "widget",
-      "label": "Social Stats",
-      "widgetId": "social-stats"
-    }
-  ],
-  "settings": {
-    "username": "Quenev",
-    "theme": "dark"
-  }
-}
+# 💫 About Me:
+🚀 **Quenev**<br><br>Сетевой инженер, специализирующийся на VPN-инфраструктуре и решениях на базе **Xray**. Занимаюсь настройкой, оптимизацией и поддержкой серверных систем с упором на стабильность и производительность.<br><br>💻 **Стек:**<br>Linux • Bash / Shell • автоматизация • Xray • HTML<br><br>📡 **Что делаю:**<br>• Развёртываю и администрирую VPN-серверы<br>• Настраиваю и оптимизирую Xray-конфигурации<br>• Работаю с маршрутизацией и сетевым трафиком<br>• Улучшаю стабильность и скорость работы систем<br>• Автоматизирую процессы через скрипты<br><br>🔥 **Фокус:**<br>Надёжные и быстрые VPN-решения с понятной и эффективной архитектурой<br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Quenev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Quenev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quenev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Quenev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=Quenev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

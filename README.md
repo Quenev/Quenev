@@ -5,11 +5,11 @@
 </div>
 
 
-# 💫 About Me:
+# 💫 Обо мне:
 Я занимаюсь разработкой и сопровождением VPN и proxy-инфраструктуры на базе Linux, а также серверных и сетевых решений. Работаю с open-source проектами (включая Zapret и аналоги), администрирую Linux-серверы, настраиваю сетевые сервисы и автоматизирую процессы, делая упор на надёжность, стабильность и оптимизацию систем. Сейчас начинаю изучать backend-разработку и frontend-технологии, развиваюсь в направлении системного программирования.<br><br>💻 **Навыки:**<br><br>• Linux server administration<br>• VPN / Proxy infrastructure (Xray и аналогичные решения)<br>• Bash / Shell scripting<br>• Базовое программирование и автоматизация<br>• Работа с open-source проектами<br><br>🚀 **Цель:** развитие в роли backend / infrastructure engineer с фокусом на создание масштабируемых, надёжных и высокопроизводительных систем.
 
 
-# 💻 Tech Stack:
+# 💻 Технический стек:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Статистика GitHub:
 ![](https://streak-stats.demolab.com/?user=Quenev&theme=dark&hide_border=false)<br/>
